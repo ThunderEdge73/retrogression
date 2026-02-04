@@ -1,0 +1,17 @@
+{
+    "id": "Retrogression",
+    "name": "Retrogression",
+    "author": [
+        "ThunderEdge73",
+        "Armless"
+    ],
+    "description": "A Balatro mod themed around retro aesthetics",
+    "prefix": "retr",
+    "main_file": "Retrogression.lua",
+    "priority": 0,
+    "badge_colour": "e9a524",
+    "version": "1.0.0",
+    "dependencies": [
+        "Steamodded (>=1.0.0~BETA-1224a)"
+    ]
+}
